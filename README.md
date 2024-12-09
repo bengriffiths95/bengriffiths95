@@ -1,6 +1,6 @@
 Hi, I’m Ben - I'm a Junior Data Engineer, having recently graduated from an intensive three-month coding bootcamp with Northcoders. I have a background in digital marketing, with seven years of experience managing teams, analysing data and problem-solving through automation.
 
-### Technical Skills
+### Technical Skills:
 
 **Programming Languages:** Python, SQL, Bash scripting<br>
 **Data:** Postgres, Looker, MS Excel<br>
@@ -10,7 +10,7 @@ CloudWatch, Boto3/Moto libraries), Terraform, Jupyter Notebooks<br>
 **OS:** Linux/Unix systems: macOS, Amazon Linux<br>
 **Versioning/CI/CD:** Git, GitHub Actions<br>
 
-### Get in touch
+### Get in touch:
 
 <div>
     <a href="https://www.linkedin.com/in/bengriffiths95/">
