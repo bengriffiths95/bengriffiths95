@@ -3,10 +3,10 @@ Hi, I’m Ben - I'm a Junior Data Engineer, having recently graduated from an in
 ### Technical Skills:
 
 **Programming Languages:** Python, SQL, Bash scripting<br>
-**Data:** Postgres, Looker, MS Excel<br>
+**Databases/Data Visualisation:** Postgres, MySQL, Looker<br>
 **Cloud Platforms:** AWS (EC2, RDS, S3, Lambda, Athena, Glue, EventBridge, Step Functions, VPC, IAM,
-CloudWatch, Boto3/Moto libraries), Terraform, Jupyter Notebooks<br>
-**Major Libraries:** Pandas, NumPy, Pytest, FastAPI, Requests<br>
+CloudWatch, Boto3 library), Terraform, Jupyter Notebooks, Apache Airflow<br>
+**Major Libraries:** Pandas, NumPy, SQLAlchemy, Pytest, FastAPI, Requests<br>
 **OS:** Linux/Unix systems: macOS, Amazon Linux<br>
 **Versioning/CI/CD:** Git, GitHub Actions<br>
 
